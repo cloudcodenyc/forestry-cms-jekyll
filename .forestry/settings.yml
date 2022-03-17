@@ -7,7 +7,7 @@ sections:
 - type: document
   path: FORESTRY-README.md
   label: Welcome to cloudcodenyc-cms-forestry
-  read_only: true
+  read_only: false
 - type: jekyll-posts
   label: Posts
   create: all
