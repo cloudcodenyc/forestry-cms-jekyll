@@ -16,3 +16,5 @@ fields:
 - type: text
   name: caption
   label: Caption
+pages:
+- _posts/post-0.md
