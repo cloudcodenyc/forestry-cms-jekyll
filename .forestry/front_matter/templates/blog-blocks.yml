@@ -41,3 +41,5 @@ fields:
 - type: list
   name: plugins
   label: plugins
+pages:
+- cloudcodenyc-blog.md
