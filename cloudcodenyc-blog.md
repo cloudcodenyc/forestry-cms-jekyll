@@ -11,6 +11,5 @@ menu:
   main:
     weight: 3
     title: blog-blocks
-published: false
 
 ---
