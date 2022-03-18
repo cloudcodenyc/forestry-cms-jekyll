@@ -7,6 +7,10 @@ baseurl: blog
 url: blocks
 defaults: []
 plugins: []
+menu:
+  main:
+    weight: 3
+    title: blog-blocks
 published: false
 
 ---
